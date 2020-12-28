@@ -1,0 +1,11 @@
+# Welcome to TheDuck8283's GitHub Page
+Hi. I'm a person who makes epic stuff.
+FOLLOW ME ON SCRATCH: [@Wackyduck2020](https://scratch.mit.edu/users/Wackyduck2020/)
+I do:
+js, scratch, c#, roblox.
+and waaaaaay more stuff.
+
+### My Projects
+[**Sonac the Hedhog**](https://theduck8283.github.io/sonacthehedhog/) </br>
+**Dream Apps** *(coming soon)* </br>
+[PopJam API](https://github.com/TheDuck8283/PopJamAPI) *(discontinued..?)* </br>
