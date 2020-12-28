@@ -6,6 +6,6 @@ js, scratch, c#, roblox.
 and waaaaaay more stuff.
 
 ### My Projects
-[**Sonac the Hedhog**](https://theduck8283.github.io/sonacthehedhog/) </br>
-**Dream Apps** *(coming soon)* </br>
-[PopJam API](https://github.com/TheDuck8283/PopJamAPI) *(discontinued..?)* </br>
+[**Sonac the Hedhog**](https://theduck8283.github.io/sonacthehedhog/)   
+**Dream Apps** *(coming soon)*   
+[PopJam API](https://github.com/TheDuck8283/PopJamAPI) *(discontinued..?)   
