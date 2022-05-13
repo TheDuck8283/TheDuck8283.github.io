@@ -42,7 +42,8 @@ const PRECACHE_URLS = [
   '/itsgone',
   'itsgone.md',
   'My Project2-3-2021_22-38-14.html',
- '404.html'
+ '404.html',
+ '/sonacthehedhog'
 ];
 
 // The install handler takes care of precaching the resources we always need.
