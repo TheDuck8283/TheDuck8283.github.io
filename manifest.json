@@ -1,0 +1,21 @@
+{
+  "name": "TheDuck's GitHub Page",
+  "short_name": "TheDuck's App",
+  "description": "BABAHAHHAHHHAHHA who reads descriptions in the 2022?",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/19d4bf56-9e9e-4432-9674-4b3fe7e8f6d3/32.png?v=1652406841778",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.global/19d4bf56-9e9e-4432-9674-4b3fe7e8f6d3/512.png?v=1652406849493",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#159957",
+  "background_color": "#159957"
+}
