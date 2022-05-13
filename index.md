@@ -6,7 +6,7 @@ js, scratch, c#, roblox.
 and waaaaaay more stuff.
 
 ### My Projects
-[**Squares 11**](https://theduck8283.github.io/Squares 11 Setup)                                
+[**Squares 11**](https://theduck8283.github.io/Squares%2011%20Setup)                                
 
 [**Sonac the Hedhog**](https://theduck8283.github.io/sonacthehedhog/)   
 
