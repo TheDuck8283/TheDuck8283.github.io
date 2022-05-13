@@ -41,7 +41,8 @@ const PRECACHE_URLS = [
   'manifest.json',
   '/itsgone',
   'itsgone.md',
-  'My Project2-3-2021_22-38-14.html'
+  'My Project2-3-2021_22-38-14.html',
+ '404.html'
 ];
 
 // The install handler takes care of precaching the resources we always need.
