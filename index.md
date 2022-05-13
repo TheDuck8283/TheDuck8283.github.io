@@ -12,6 +12,6 @@ and waaaaaay more stuff.
 
 [PopJam API](https://github.com/TheDuck8283/PopJamAPI) *(discontinued..?)*   
 
-<script src="sw.js"></script>
 
-<source src="manifest.json" type="json">
+<link rel="javascript" href="sw.js">
+<link rel="manifest" href="manifest.json">
