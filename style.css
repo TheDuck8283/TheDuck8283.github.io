@@ -8,6 +8,12 @@ body {
     margin: 70px
 }
 
+.errcenter {
+    margin: 70px;
+    text-align: center;
+    color: grey;
+}
+
 .bigtext {
     font-size: 300%;
     font-style: bold;
@@ -17,3 +23,51 @@ body {
 .hreflinkerr {
     color: grey;
 }
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  li {
+    float: left;
+    color:rgb(0, 0, 0)
+  }
+
+  .otherli {
+    float: right;
+    color:rgb(0, 0, 0)
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: darkblue;
+  }
+
+  .centerheader {
+    float: center;
+    text-align: center;
+    font-size: 72px;
+  }
+
+  .grid-container {
+    display: grid;
+    column-gap: 20px;
+    row-gap: 20px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    justify-content: center;
+  }
