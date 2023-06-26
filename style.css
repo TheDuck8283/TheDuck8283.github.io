@@ -1,4 +1,17 @@
 body {
-    font-family: Arial;
+    font-family: Consolas, "Courier New", Courier, monospace;
+    background-color: black;
 
+}
+.err {
+    margin: 70px
+}
+
+.bigtext {
+    font-size: 150%;
+    font-style: bold;
+}
+
+.hreflinkerr {
+    color: grey;
 }
