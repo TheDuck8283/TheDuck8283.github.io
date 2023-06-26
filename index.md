@@ -1,10 +1,10 @@
 # Welcome to TheDuck8283's GitHub Page
 This webpage is actively being updated.
 Here is what is done and not done so far:
-[/ 404 Page](https://theduck8283.github.io/404)
-[- Home Page](https://theduck8283.github.io)
-- Project Page
-- About Me
+* [/ 404 Page](https://theduck8283.github.io/404)
+* [- Home Page](https://theduck8283.github.io)
+* - Project Page
+* - About Me
 Hi. I'm a person who makes epic stuff.
 FOLLOW ME ON SCRATCH: [@Wackyduck2020](https://scratch.mit.edu/users/Wackyduck2020/)
 I do:
