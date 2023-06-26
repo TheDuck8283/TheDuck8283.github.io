@@ -1,6 +1,7 @@
 body {
     font-family: Consolas, "Courier New", Courier, monospace;
     background-color: black;
+    color: white;
 
 }
 .err {
@@ -10,6 +11,7 @@ body {
 .bigtext {
     font-size: 150%;
     font-style: bold;
+    color: white;
 }
 
 .hreflinkerr {
